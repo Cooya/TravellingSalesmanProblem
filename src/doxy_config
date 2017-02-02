@@ -1,0 +1,10 @@
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = "Voyageur de commerce"
+PROJECT_NUMBER         = build 158
+OUTPUT_DIRECTORY       = 
+OUTPUT_LANGUAGE        = French
+INPUT                  = . algos/ gui/
+FILE_PATTERNS          = *.h *.c
+GENERATE_LATEX 	  = NO
+GENERATE_TREEVIEW      = YES
+
