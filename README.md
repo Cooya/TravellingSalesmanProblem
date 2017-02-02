@@ -1,2 +1,2 @@
-# TravellingSalesmanProblem
-Implementation of different algorithms for resolve the travelling salesman problem
+# Travelling Salesman Problem
+Project imported from https://services.emi.u-bordeaux.fr/projet/viewvc/vdc/ accomplished in second year of bachelor. We was four to realize this projet. The aim was to design a program as command line interface that allows to compute solutions to the travelling salesman problem by offering four computation methods ("nearest neighbour", "minimum spanning tree", "exhaustive search" and "branch and bound").
